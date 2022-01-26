@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@500&family=Poppins:wght@500;600&family=Roboto&display=swap');
+:root { 
+    --main-bg-color: #bd6418;
+    --font1: "Baloo Bhaina 2", cursive;
+    --font2: "Roboto", sans-serif;
+  }
+  .font1 {
+    font-family: var(--font1);
+  }
+  .font2 {
+    font-family: var(--font2);
+  }
+/* body {
+    display: flex;
+    height: 290vh;
+    justify-content: center;
+    align-items: center;
+    background: rgb(45, 8, 87);
+} */
+
